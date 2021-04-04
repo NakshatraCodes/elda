@@ -25,7 +25,7 @@ import Projects from "./components/Projects";
 import { ProtectedRoute } from "./protectedRoute";
 import { RedirectRoute } from "./RedirectRoute";
 
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 require("dotenv").config();
 
