@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/elda/static/css/main.0e33fd00.chunk.css",
+    "main.js": "/elda/static/js/main.634e57c1.chunk.js",
+    "main.js.map": "/elda/static/js/main.634e57c1.chunk.js.map",
+    "runtime-main.js": "/elda/static/js/runtime-main.631815a1.js",
+    "runtime-main.js.map": "/elda/static/js/runtime-main.631815a1.js.map",
+    "static/js/2.05ffdf0c.chunk.js": "/elda/static/js/2.05ffdf0c.chunk.js",
+    "static/js/2.05ffdf0c.chunk.js.map": "/elda/static/js/2.05ffdf0c.chunk.js.map",
+    "index.html": "/elda/index.html",
+    "static/css/main.0e33fd00.chunk.css.map": "/elda/static/css/main.0e33fd00.chunk.css.map",
+    "static/js/2.05ffdf0c.chunk.js.LICENSE.txt": "/elda/static/js/2.05ffdf0c.chunk.js.LICENSE.txt",
+    "static/media/CampusFamily.8fca457b.jpg": "/elda/static/media/CampusFamily.8fca457b.jpg",
+    "static/media/banner.394045fc.jpg": "/elda/static/media/banner.394045fc.jpg",
+    "static/media/coglogo.a545c34a.jpg": "/elda/static/media/coglogo.a545c34a.jpg",
+    "static/media/cover2.0f3380bd.jpeg": "/elda/static/media/cover2.0f3380bd.jpeg",
+    "static/media/democertificate.88156838.png": "/elda/static/media/democertificate.88156838.png",
+    "static/media/demouserimg.0bbe4ef8.jpg": "/elda/static/media/demouserimg.0bbe4ef8.jpg",
+    "static/media/eldalogo.5ddc5914.png": "/elda/static/media/eldalogo.5ddc5914.png",
+    "static/media/eldalogowt.22d31b4d.png": "/elda/static/media/eldalogowt.22d31b4d.png",
+    "static/media/hg.f6022055.png": "/elda/static/media/hg.f6022055.png",
+    "static/media/howitworks.84c02adc.svg": "/elda/static/media/howitworks.84c02adc.svg",
+    "static/media/slider1.e75cfd25.png": "/elda/static/media/slider1.e75cfd25.png",
+    "static/media/slider2.4df4bef7.png": "/elda/static/media/slider2.4df4bef7.png",
+    "static/media/slider3.42608e3e.png": "/elda/static/media/slider3.42608e3e.png",
+    "static/media/slider4.6d07b871.png": "/elda/static/media/slider4.6d07b871.png",
+    "static/media/slider5.78f01c0c.png": "/elda/static/media/slider5.78f01c0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631815a1.js",
+    "static/js/2.05ffdf0c.chunk.js",
+    "static/css/main.0e33fd00.chunk.css",
+    "static/js/main.634e57c1.chunk.js"
+  ]
+}
