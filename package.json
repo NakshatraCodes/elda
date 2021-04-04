@@ -2,7 +2,7 @@
   "name": "iiitk-edu-final",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hidden2021.github.io/elda",
+  "homepage": "https://hidden2021.github.io/elda",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
